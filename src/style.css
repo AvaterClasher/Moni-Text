@@ -21,11 +21,10 @@ input{
 }
 
 .text1{
-  color: #4d4949;
+  color:#4d4949;
   position: absolute;
   z-index: 100;
-  bottom: 0px;
+  bottom: 28px;
   text-align: center;
-  left: 43%;
-
+  left: 37%;
 }
